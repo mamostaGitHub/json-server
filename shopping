@@ -1,0 +1,33 @@
+{
+[
+    { 
+    "id": 1, 
+    "name":"Patates"
+    "isCompleted":false
+    "isArchived":"false" 
+    },
+     { 
+    "id": 2, 
+    "name":"Domates"
+    "isCompleted":false
+    "isArchived":"false" 
+    },
+    { 
+    "id": 3, 
+    "name":"Soğan"
+    "isCompleted":false
+    "isArchived":"false" 
+    },
+    { 
+    "id": 4, 
+    "name":"Biber"
+    "isCompleted":false
+    "isArchived":"false" 
+    },
+    { 
+    "id": 5, 
+    "name":"Salatalık"
+    "isCompleted":false
+    "isArchived":"false" 
+    },
+  ],
